@@ -2,3 +2,17 @@
 .idea/misc.xml
 .idea/to-do-app.iml
 .idea/vcs.xml
+.DS_Store
+.idea/misc.xml
+.idea/to-do-app.iml
+My APP.app/Contents/Info.plist
+My APP.app/Contents/MacOS/My APP
+My APP.app/Contents/Resources/AppIcon.icns
+My APP.app/Contents/Resources/AppSettings.plist
+My APP.app/Contents/Resources/functions.py
+My APP.app/Contents/Resources/MainMenu.nib/designable.nib
+My APP.app/Contents/Resources/MainMenu.nib/keyedobjects-101300.nib
+My APP.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+My APP.app/Contents/Resources/script
+My APP.app/Contents/Resources/todos.txt
+.idea/misc.xml
